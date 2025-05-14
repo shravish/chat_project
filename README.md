@@ -1,4 +1,4 @@
-### Chat Project
+# Chat Project
 ### Setup Instructions
 ### 1.Create and activate virtual environment
 '''
